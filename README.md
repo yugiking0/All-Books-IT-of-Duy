@@ -1,9 +1,9 @@
 # All-Books-IT-of-Duy
 Collect all my IT Books in my PC
 
-TOP IT Books by Duy
+## TOP IT Books by Duy
 
-Software Engineering Practices & Craftsmanship 
+### Software Engineering Practices & Craftsmanship 
 Nội hàm: Tập trung vào kỹ năng viết mã và tư duy nghệ nhân (Clean Code, Refactoring, TDD/BDD, Design Patterns, Debugging, Documentation, Pragmatic Programming).
 
 - Clean Code: A Handbook of Agile Software Craftsmanship (Mã sạch: Cẩm nang về kỹ năng lập trình Agile) - Robert C. Martin - 2008 - Tác phẩm kinh điển thiết lập các tiêu chuẩn vàng cho việc viết mã, tập trung vào các quy tắc đặt tên, cấu trúc hàm, xử lý lỗi và các kỹ năng cần thiết để biến mã nguồn thành một tác phẩm nghệ thuật dễ đọc và dễ bảo trì.
@@ -84,7 +84,7 @@ Nội hàm: Tập trung vào kỹ năng viết mã và tư duy nghệ nhân (Cle
 
 - One Plus One Equals Three: A Masterclass in Creative Thinking (Một cộng một bằng ba: Lớp học về tư duy sáng tạo) - Dave Trott - Edition Unknown - Mặc dù nghiêng về tư duy sáng tạo, cuốn sách cung cấp các mô hình tư duy phi truyền thống giúp lập trình viên giải quyết các bài toán kỹ thuật theo những cách đột phá.
 
-Architecture & System Design (Tổng số: 28 cuốn)
+### Architecture & System Design (Tổng số: 28 cuốn)
 Nội hàm: Các lý thuyết về cấu trúc hệ thống lớn (Microservices, Distributed Systems, DDD, Scaling, Cloud-Native, Database Internals, High Availability).
 
 - Clean Architecture: A Craftsman's Guide to Software Structure and Design (Kiến trúc sạch: Hướng dẫn của nghệ nhân về cấu trúc và thiết kế phần mềm) - Robert C. Martin - 2017 - Trình bày các nguyên lý thiết kế hệ thống độc lập với hạ tầng, giúp phần mềm có thể tồn tại qua nhiều thập kỷ mặc cho sự thay đổi của công nghệ. Đi sâu vào các ranh giới kiến trúc và cách tổ chức các thành phần hệ thống để đạt được tính module hóa tối đa.
@@ -141,7 +141,7 @@ Nội hàm: Các lý thuyết về cấu trúc hệ thống lớn (Microservices
 
 - Enterprise IT Troubleshooting: Cross Functional IT Problem Solving (Xử lý sự cố CNTT doanh nghiệp) - Unknown - Edition Unknown - Các phương pháp tư duy hệ thống để chẩn đoán và giải quyết các lỗi kỹ thuật phức tạp trong môi trường hạ tầng doanh nghiệp đa tầng.
 
-DevOps & Platform Engineering 
+### DevOps & Platform Engineering 
 Nội hàm: Văn hóa và công cụ vận hành (SRE, CI/CD, Observability, Infrastructure as Code, Kubernetes, Docker, Automation).
 
 - The DevOps Handbook - How to Create World-Class Agility, Reliability & Security in Technology Organizations (Sổ tay DevOps: Cách tạo ra sự linh hoạt, tin cậy và bảo mật đẳng cấp thế giới) - Gene Kim, Jez Humble, Patrick Debois, John Willis - Edition Unknown - Bản hướng dẫn chiến lược toàn diện nhất về cách phá vỡ rào cản giữa lập trình và vận hành, tập trung vào ba con đường của DevOps: Dòng chảy, Phản hồi, và Học hỏi liên tục.
@@ -172,7 +172,7 @@ Nội hàm: Văn hóa và công cụ vận hành (SRE, CI/CD, Observability, Inf
 
 - Enterprise IT Troubleshooting: Cross Functional IT Problem Solving (Xử lý sự cố CNTT doanh nghiệp) - Unknown - Edition Unknown - Hướng dẫn cách chẩn đoán và giải quyết các vấn đề kỹ thuật phức tạp bằng cách phối hợp giữa các nhóm hạ tầng, mạng và ứng dụng.
 
-Kubernetes & Docker in DevOps
+### Kubernetes & Docker in DevOps
 
 - Kubernetes in Action (Kubernetes trong thực tế) - Marko Luksa - Edition Unknown - Hướng dẫn chi tiết từ cơ bản đến nâng cao về cách điều phối container, giải thích tường tận cơ chế của Pods, Services, Deployments và cách xây dựng hạ tầng Cloud-native bền vững.
 
@@ -212,7 +212,7 @@ Kubernetes & Docker in DevOps
 
 - Security Automation with Python (Tự động hóa bảo mật với Python) - Unknown - Edition Unknown - Sử dụng ngôn ngữ Python để xây dựng các công cụ kiểm tra an ninh tự động, quét lỗ hổng và ứng phó sự cố trong quy trình DevSecOps.
 
-Technical Leadership (Tổng số: 42 cuốn)
+### Technical Leadership (Tổng số: 42 cuốn)
 Nội hàm: Dành cho quản lý kỹ thuật (Tech Lead, Staff Engineer, CTO, Engineering Management, ADRs, Mentoring, chiến lược công nghệ).
 
 - Become an Effective Software Engineering Manager (Trở thành nhà quản lý kỹ thuật phần mềm hiệu quả) - James Stanier - 2020 - Hướng dẫn thực tế cho các kỹ sư xuất sắc khi chuyển sang vai trò quản lý, tập trung vào việc dẫn dắt con người, xây dựng văn hóa đội ngũ và quản lý sự nghiệp của thành viên.
@@ -273,7 +273,7 @@ Nội hàm: Dành cho quản lý kỹ thuật (Tech Lead, Staff Engineer, CTO, E
 
 - IT Support (Hỗ trợ CNTT) - DuyDQ - Vr.2.2.1 - Tài liệu nội bộ tập trung vào việc quản lý quy trình hỗ trợ người dùng cuối và duy trì chất lượng dịch vụ CNTT trong doanh nghiệp. Các quy tắc cơ bản trong việc chẩn đoán sự cố phần cứng, phần mềm và kỹ năng giao tiếp khi hỗ trợ kỹ thuật.
 
-Engineering Professionalism & Soft Skills (Tổng số: 36 cuốn)
+### Engineering Professionalism & Soft Skills (Tổng số: 36 cuốn)
 Nội hàm: Kỹ năng mềm trong môi trường Tech (Giao tiếp kỹ thuật, làm việc nhóm, Scrum, Agile, đạo đức nghề nghiệp, quản lý sự nghiệp Dev).
 
 - Soft Skills: The Software Developer's Life Manual (Kỹ năng mềm: Cẩm nang sống cho nhà phát triển phần mềm) - John Sonmez - 2020/2nd Edition - Hướng dẫn toàn diện từ việc học tập, tài chính, sức khỏe đến việc xây dựng thương hiệu cá nhân để lập trình viên có một sự nghiệp và cuộc sống cân bằng, thành công.
