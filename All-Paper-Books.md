@@ -10,7 +10,7 @@ Bổ sung các cuốn sách mới như:
 - Sách ở bàn laptop
 ---
 
-. **Đại dương** ( *Ocean* ) - DK / Nhiều tác giả - Khoa học - Khám phá vẻ đẹp và sự bí ẩn của đại dương qua hình ảnh minh họa chi tiết và kiến thức địa lý biển toàn diện.
+/n . **Đại dương** ( *Ocean* ) - DK / Nhiều tác giả - Khoa học - Khám phá vẻ đẹp và sự bí ẩn của đại dương qua hình ảnh minh họa chi tiết và kiến thức địa lý biển toàn diện.
 . **Pehal the Start** - Từ Vựng Tiếng Anh - Cung cấp những kiến thức và từ vựng Tiếng Anh theo chuyên đề.
 . **Biến động** ( *Upheaval* ) - Jared Diamond - Lịch sử/Xã hội - Phân tích cách các quốc gia vượt qua các cuộc khủng hoảng lớn để tìm ra bài học thích nghi cho thế giới hiện đại.
 . **Homo Deus: Lược sử tương lai** ( *Homo Deus: A Brief History of Tomorrow* ) - Yuval Noah Harari - Lịch sử/Triết học - Dự báo về tương lai nhân loại khi công nghệ sinh học và trí tuệ nhân tạo bắt đầu thay đổi bản chất con người.
@@ -36,7 +36,6 @@ Bổ sung các cuốn sách mới như:
 . **Thiết kế dàn trang nâng cao** - Cengage Learning - Kỹ năng - Hướng dẫn chi tiết về tư duy bố cục chữ và hình ảnh phức tạp trong các sản phẩm in ấn và xuất bản chuyên nghiệp.
 . **Thiết kế dàn trang cơ bản** - Cengage Learning - Kỹ năng - Những nguyên tắc cốt lõi về sắp xếp bố cục và trình bày văn bản để tạo nên một thiết kế trang cân đối, thẩm mỹ.
 . **Cẩm nang Scrum / Agile** - Quản trị dự án - Giới thiệu các phương pháp làm việc linh hoạt giúp đội nhóm tăng hiệu quả và tốc độ thực hiện dự án.
-
 . **Effective JavaScript** ( *Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript* ) - David Herman - Công nghệ/Lập trình - Chia sẻ 68 cách cụ thể để tận dụng tối đa sức mạnh của JavaScript, giúp viết mã nguồn rõ ràng, chính xác và hiệu quả hơn.
 . **Eloquent JavaScript** ( *Eloquent JavaScript: A Modern Introduction to Programming* ) - Marijn Haverbeke - Công nghệ/Lập trình - Hướng dẫn toàn diện về ngôn ngữ JavaScript, từ các khái niệm cơ bản đến lập trình nâng cao, bao gồm cả xử lý bất đồng bộ và đồ họa.
 . **You Don't Know JS: ES6 & Beyond** - Kyle Simpson - Công nghệ/Lập trình - Đi sâu vào các tính năng mới của ES6, giúp lập trình viên nắm vững những thay đổi quan trọng nhất của ngôn ngữ JavaScript hiện đại.
