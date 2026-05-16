@@ -717,7 +717,7 @@
 
 . **Tuổi thơ dữ dội** - Phùng Quán - Văn học/Lịch sử - Câu chuyện bi tráng và đầy xúc động về những thiếu niên anh hùng của Vệ quốc đoàn trong cuộc chiến đấu bảo vệ tổ quốc.
 
-. **Mồi cần câu** - Trần Thanh Địch - Văn học - Cuốn sách mỏng có gáy màu trắng nằm lấp ngay phía sau cuốn "Tuổi thơ dữ dội", chỉ có thể đọc được tên tác giả Trần Thanh Địch in dọc trên gáy.
+. **Một cần câu** - Trần Thanh Địch - Văn học - Cuốn sách mỏng có gáy màu trắng nằm lấp ngay phía sau cuốn "Tuổi thơ dữ dội", chỉ có thể đọc được tên tác giả Trần Thanh Địch in dọc trên gáy.
 
 . **Tàn cuộc diệu thủ** - NXB Mũi Cà Mau - Thể thao/Cờ tướng - Cuốn sách chuyên khảo hướng dẫn cách giải các thế cờ tàn cục, cờ thế phức tạp trong bộ môn cờ tướng.
 
