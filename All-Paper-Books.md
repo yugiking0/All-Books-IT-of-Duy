@@ -1112,4 +1112,126 @@
 
 . **Phương thức Toyota** ( *The Toyota Way* ) - Jeffrey K. Liker - Quản trị - Giải mã hệ thống quản lý của tập đoàn Toyota.
 
+. **Bí Quyết Tay Trắng Thành Triệu Phú** (*Secrets of Self-Made Millionaires*) - Adam Khoo - Kinh doanh / Phát triển bản thân - Hướng dẫn tư duy, chiến lược tài chính và các phương pháp đầu tư thực tế để đạt được sự tự do tài chính từ con số không.
+
+. **Bí Quyết Gây Dựng Cơ Nghiệp Bạc Tỷ** (*Secrets of Building Multi-Million Dollar Businesses*) - Adam Khoo - Kinh doanh / Khởi nghiệp - Cung cấp các công cụ và chiến lược cốt lõi để bắt đầu, vận hành và phát triển một doanh nghiệp có lợi nhuận cao.
+
+. **Clean Code** (*Clean Code: A Handbook of Agile Software Craftsmanship*) - Robert Cecil Martin - Công nghệ thông tin / Lập trình - Trình bày chi tiết các nguyên tắc và thực hành tốt nhất giúp lập trình viên viết mã nguồn sạch, dễ đọc và dễ bảo trì.
+
+. **Tay Không Gây Dựng Cơ Đồ** - Vikrom Kromadit - Tự truyện / Khởi nghiệp - Lời kể chân thực về hành trình vượt qua khó khăn, gian khổ để xây dựng đế chế khu công nghiệp Amata của vị tỷ phú người Thái Lan.
+
+. **Lịch Sử** (*The Histories*) - Herodotus - Lịch sử - Tác phẩm kinh điển của sử học phương Tây, ghi chép lại nguồn gốc và diễn biến của cuộc chiến tranh giữa Hy Lạp và đế quốc Ba Tư cổ đại.
+
+. **Lịch Sử Giao Thương** (*A Splendid Exchange: How Trade Shaped the World*) - William J. Bernstein - Lịch sử / Kinh tế - Hành trình khám phá lịch sử thương mại thế giới, từ những tuyến đường gia vị cổ đại đến toàn cầu hóa hiện đại.
+
+. **Sự Giàu Và Nghèo Của Các Dân Tộc** (*The Wealth and Poverty of Nations*) - David S. Landes - Kinh tế vĩ mô / Lịch sử kinh tế - Phân tích sâu sắc về các yếu tố địa lý, văn hóa và lịch sử dẫn đến sự chênh lệch giàu nghèo giữa các quốc gia.
+
+. **Sản Phẩm Phái Sinh Và Quản Trị Rủi Ro Tài Chính** (*An Introduction to Derivatives and Risk Management*) - Don M. Chance, Robert Brooks - Tài chính - Sách chuyên ngành phân tích các công cụ phái sinh, quyền chọn, hợp đồng tương lai và cách thức quản lý rủi ro trong tài chính.
+
+. **Tại Sao Chúng Tôi Muốn Bạn Giàu** (*Why We Want You to Be Rich*) - Donald J. Trump, Robert T. Kiyosaki - Tài chính cá nhân - Hai chuyên gia tài chính cùng chia sẻ quan điểm về nền kinh tế và lý do mỗi người cần chủ động kiến tạo sự giàu có.
+
+. **Tôi Đã Làm Giàu Như Thế** (*How to Get Rich*) - Donald J. Trump - Kinh doanh / Tự truyện - Những bí quyết đầu tư, đàm phán và kỹ năng quản lý mang đậm phong cách của Donald Trump trong giới bất động sản.
+
+. **Dạy Con Làm Giàu Tập V: Để Có Sức Mạnh Về Tài Chính** (*Rich Dad's Retire Young Retire Rich*) - Robert T. Kiyosaki, Sharon L. Lechter - Tài chính cá nhân - Hướng dẫn cách sử dụng sức bật tài chính để tạo ra sự giàu có nhanh chóng và đạt được khả năng nghỉ hưu sớm.
+
+. **Nhìn Mặt Là Bắt Hình Dong** - Văn Hàn - Kỹ năng sống / Tâm lý học - Cẩm nang hướng dẫn cách quan sát tinh tế, đọc vị tâm lý và nhận diện tính cách người khác qua ngoại hình, cử chỉ.
+
+. **The Sales Advantage** (*The Sales Advantage*) - Dale Carnegie & Associates - Kinh doanh / Bán hàng - Cung cấp quy trình bán hàng hiệu quả dựa trên nghệ thuật giao tiếp và xây dựng mối quan hệ từ triết lý Dale Carnegie.
+
+. **Kinh Tế Học Vi Mô** (*Principles of Microeconomics*) - N. Gregory Mankiw - Kinh tế học - Tài liệu cơ sở về kinh tế vi mô, giải thích sự tương tác giữa các cá nhân, doanh nghiệp và cách thị trường vận hành.
+
+. **Nghệ Thuật Tư Duy Chiến Lược** (*The Art of Strategy*) - Avinash K. Dixit, Barry J. Nalebuff - Quản trị / Kỹ năng - Áp dụng các khái niệm của lý thuyết trò chơi vào kinh doanh và đời sống để dự đoán và đưa ra quyết định tốt nhất.
+
+. **Bài Học Phần Lan 2.0** (*Finnish Lessons 2.0*) - Pasi Sahlberg - Giáo dục - Phân tích hệ thống giáo dục công bằng và hiệu quả của Phần Lan, từ đó rút ra các bài học cải cách cho thế giới.
+
+. **100 Điều Nên Làm, 100 Điều Nên Tránh Trong Kinh Doanh** - Nhiều tác giả - Kinh doanh - Tổng hợp những quy tắc vàng và những sai lầm chết người cần lưu ý để quản trị doanh nghiệp thành công.
+
+. **Khéo Ăn Nói Sẽ Có Được Thiên Hạ** - Trác Nhã - Kỹ năng giao tiếp - Bí quyết rèn luyện khả năng giao tiếp khéo léo, nghệ thuật ăn nói để thành công trong các mối quan hệ xã hội và công việc.
+
+. **Đắc Nhân Tâm** (*How to Win Friends and Influence People*) - Dale Carnegie - Kỹ năng sống / Phát triển bản thân - Cuốn sách kinh điển về nghệ thuật thu phục lòng người, tạo thiện cảm và tạo tầm ảnh hưởng sâu rộng đến người khác.
+
+. **Làm Bạn Với Hình Làm Tình Với Chữ** - Bút Chì - Sáng tạo / Marketing - Cuốn sách thú vị chia sẻ kinh nghiệm, tư duy và những nguyên tắc sáng tạo nội dung trong nghề quảng cáo và copywriting.
+
+. **Quê Hương Tôi** - Tràng Thiên - Văn học - Những trang viết giàu cảm xúc, chứa đựng tình yêu quê hương sâu sắc và những hồi ức hoài niệm về con người, cảnh vật Việt Nam.
+
+. **Độc Hành** - Nguyễn Hoàng Bảo - Du ký - Ghi chép về hành trình du lịch bụi đơn độc qua nhiều vùng đất mới lạ, mang đến những trải nghiệm văn hóa và góc nhìn chân thực.
+
+. **Để Làm Nên Sự Nghiệp** (*How to Build a Business*) - H.N. Casson - Kinh doanh / Phát triển bản thân - Trình bày những chân lý và quy tắc làm việc thiết thực giúp mỗi người xây dựng nền móng vững chắc cho sự nghiệp.
+
+. **Logo Ký Sự** - Ron Van Der Vlugt - Tự truyện / Ký sự - Góc nhìn khách quan và thú vị thiết kế Logo và lịch sử Logo.
+
+. **Lập Trình Và Cuộc Sống** (*Effective Programming: More Than Writing Code*) - Jeff Atwood - Công nghệ / Lập trình - Những bài viết sâu sắc từ blog Coding Horror, bàn về khía cạnh con người, kỹ năng mềm và thực tế ngành công nghệ phần mềm.
+
+. **Cha Giàu, Cha Nghèo** (*Rich Dad Poor Dad*) - Robert T. Kiyosaki - Tài chính cá nhân - Nhấn mạnh tầm quan trọng của giáo dục tài chính, chỉ ra sự khác biệt trong tư duy kiếm tiền của người giàu và người nghèo.
+
+. **Thất Nhân Tâm** - Hoàng Xuân Việt - Kỹ năng sống / Tâm lý - Đưa ra góc nhìn ngược để phê phán những thói hư tật xấu trong giao tiếp và cách hành xử khiến con người mất đi thiện cảm.
+
+. **Tuyển Tập Truyện Trào Phúng Hay Nhất Của Võ Tòng Đánh Mèo Tập 2** - Võ Tòng Đánh Mèo - Văn học trào phúng - Tập hợp những mẩu truyện ngắn châm biếm sâu cay, hài hước về những vấn đề nhức nhối trong xã hội đương đại.
+
+. **Yếm Đào Du Ký** - Lam Linh - Du ký - Câu chuyện ghi lại những chuyến đi trải nghiệm đầy tính tự do, khám phá những nét đẹp văn hóa và con người của nữ tác giả.
+
+. **Sử Việt 12 Khúc Tráng Ca** - Dũng Phan - Lịch sử Việt Nam - Cuốn sách tái hiện lại những trang sử hào hùng của dân tộc Việt Nam qua lối kể chuyện hấp dẫn, hiện đại và dễ tiếp cận.
+
+. **Trò Chơi Của Trẻ Em Ở Bắc Kỳ** (*Jeux d'enfants au Tonkin*) - Ngô Quý Sơn - Khảo cứu văn hóa - Công trình nghiên cứu có giá trị về văn hóa dân gian, ghi chép chi tiết các trò chơi truyền thống của trẻ em miền Bắc.
+
+. **Dạy Con Làm Giàu Tập III: Hướng Dẫn Đầu Tư** (*Rich Dad's Guide to Investing*) - Robert T. Kiyosaki, Sharon L. Lechter - Tài chính / Đầu tư - Đi sâu vào các chiến lược đầu tư phức tạp, tiết lộ cách những nhà đầu tư lão luyện xây dựng và bảo vệ tài sản.
+
+. **Gom 'Lỗi' Nhặt 'Lầm' 365 Ngày Yêu Tiếng Anh** - Harry Dan - Học ngoại ngữ - Phương pháp học tiếng Anh thực tế thông qua việc nhận diện và sửa chữa những lỗi sai phổ biến mà người Việt thường gặp.
+
+. **Khác Biệt Hay Là Chết** (*Differentiate or Die*) - Jack Trout, Steve Rivkin - Kinh doanh / Marketing - Khẳng định quy luật sinh tồn trong kỷ nguyên cạnh tranh khốc liệt: doanh nghiệp phải tìm ra định vị khác biệt hoặc sẽ bị đào thải.
+
+. **Miếng Ngon Hà Nội & Món Lạ Miền Nam** - Vũ Bằng - Văn học / Ẩm thực - Tuyệt tác tùy bút miêu tả tinh tế hương vị, phong vị đặc trưng của nghệ thuật ẩm thực truyền thống Việt Nam trải dài hai miền.
+
+. **8 Cá Tính Của Người Thành Đạt** (*8 Traits of Successful People*) - Richard St. John - Phát triển bản thân - Tổng hợp 8 yếu tố cốt lõi dẫn đến thành công vượt trội được đúc kết từ những cuộc phỏng vấn với các vĩ nhân trên thế giới.
+
+. **Bạn Đỡ Ngu Ngơ Rồi Đấy** (*You Are Now Less Dumb*) - David McRaney - Tâm lý học - Giải mã những ảo tưởng và thiên kiến nhận thức ẩn sâu trong não bộ, giúp bạn đưa ra những quyết định sáng suốt hơn.
+
+. **Lê La Quán Xá Quê Nhà** - Nguyễn Hữu Tài - Tản văn / Ẩm thực - Những mẩu chuyện dung dị, hoài niệm về các món ăn đường phố dân dã và ký ức mộc mạc nơi quê nhà.
+
+. **Trí Tuệ Của Người Xưa** - Dương Thu Ái, Nguyễn Kim Hạnh - Triết học / Lịch sử - Tuyển chọn những câu chuyện, ngụ ngôn và bài học nhân sinh sâu sắc được lưu truyền từ các bậc hiền triết thời xưa.
+
+. **Chỉ Cần Mẩu Khăn Giấy** (*The Back of the Napkin*) - Dan Roam - Kinh doanh / Kỹ năng - Kỹ năng tư duy hình ảnh, hướng dẫn cách sử dụng những hình vẽ đơn giản để diễn đạt ý tưởng và giải quyết các vấn đề phức tạp.
+
+. **Bệnh Khớp - Bệnh Gout Cách Phòng Và Điều Trị** - Nhiều tác giả - Y học / Sức khỏe - Cung cấp các kiến thức y khoa nền tảng, nguyên nhân, triệu chứng và các phác đồ để phòng ngừa, chữa trị bệnh xương khớp.
+
+. **Doanh Nghiệp Nho Nhỏ, Món Hời To To** - Kantana - Quản trị kinh doanh - Gợi ý những chiến thuật tiếp thị và vận hành tinh gọn, thông minh giúp các doanh nghiệp quy mô nhỏ gia tăng sức cạnh tranh.
+
+. **Tư Duy Kế Toán Phải Có trong Kinh Doanh** - Takaharu Yasumoto - Tài chính / Kế toán - Mở rộng góc nhìn về nghề kế toán, biến những con số khô khan thành công cụ đắc lực để cố vấn chiến lược kinh doanh.
+
+. **Phân Tích Hành Vi Phạm Tội Giải Mã Kỳ Án Thế Giới** - Moriarty. K - Tâm lý học tội phạm / Trinh thám - Phân tích khoa học về động cơ, tâm lý và hành vi của tội phạm thông qua việc mổ xẻ các vụ án kinh điển trong lịch sử.
+
+. **Nhà Đầu Tư Thông Minh** (*The Intelligent Investor*) - Benjamin Graham - Tài chính / Đầu tư - Cuốn sách nền tảng định hình triết lý đầu tư giá trị, hướng dẫn cách giảm thiểu rủi ro và đầu tư chứng khoán an toàn, dài hạn.
+
+. **Cư Xử Như Đàn Bà, Suy Nghĩ Như Đàn Ông** (*Act Like a Lady, Think Like a Man*) - Steve Harvey - Tâm lý / Tình cảm - Phơi bày cách suy nghĩ thực sự của phái mạnh về tình yêu, hôn nhân, giúp phụ nữ làm chủ các mối quan hệ tình cảm.
+
+. **Người Trong Muôn Nghề** - TopCV - Hướng nghiệp - Lời tâm sự chân thật từ những người đi trước về niềm vui, nỗi buồn và thực tế khốc liệt của nhiều ngành nghề khác nhau trong xã hội.
+
+. **Nghệ Thuật Đàm Phán Thương Vụ Quốc Tế** - Trương Tường - Kinh doanh / Kỹ năng - Cung cấp chiến thuật, kỹ năng giao tiếp và cách xử lý xung đột văn hóa khi tham gia đàm phán thương mại trên toàn cầu.
+
+. **Anh Là Chú Rể, Em Là Cô Dâu** - Wedding Planner Như Cầm - Đời sống / Cẩm nang - Sổ tay hướng dẫn thực tế từng bước lập kế hoạch, dự trù ngân sách và tổ chức một lễ cưới trọn vẹn, đáng nhớ.
+
+. **Kỹ Năng Học Tập Thành Công Ở Bậc Cao Đẳng, Đại Học Tập 1: Quản Lý Bản Thân Tối Ưu** (*The Study Skills Handbook*) - Stella Cottrell - Kỹ năng học tập - Cung cấp các chiến lược giúp sinh viên tổ chức thời gian, quản lý căng thẳng và tối ưu hóa năng suất trong môi trường đại học.
+
+. **Kỹ Năng Học Tập Thành Công Ở Bậc Cao Đẳng, Đại Học Tập 2: Những Kỹ Năng Học Thuật** (*The Study Skills Handbook*) - Stella Cottrell - Kỹ năng học tập - Hướng dẫn phương pháp nghiên cứu tài liệu, tư duy phản biện và kỹ năng viết tiểu luận học thuật chuẩn mực cho sinh viên.
+
+. **100 Câu Chuyện Về Sự Giàu Có** - Quách Thanh - Kỹ năng sống / Phát triển bản thân - Tập hợp những mẩu chuyện ngắn mang ý nghĩa triết lý sâu sắc, truyền động lực về khao khát làm giàu và nỗ lực vươn lên.
+
+. **Nghề Nào Cho Bạn Nghề Nào Cho Tôi** (*Career Match*) - Shoya Zichi, Ann Bidou - Hướng nghiệp - Áp dụng các bài trắc nghiệm tính cách khoa học để giúp bạn thấu hiểu bản thân và lựa chọn con đường sự nghiệp lý tưởng.
+
+. **Làm Thế Nào Dịch Chuyển Núi Phú Sĩ?** (*How Would You Move Mount Fuji?*) - William Poundstone - Kinh doanh / Kỹ năng - Giải mã nghệ thuật phỏng vấn bằng các câu hỏi logic hóc búa của những tập đoàn công nghệ hàng đầu thế giới.
+
+. **Hồi Kí Bóng Đá Của Son Heung Min Đường Đến Châu Âu** - Son Heung Min - Thể thao / Tự truyện - Lời tự sự về sự rèn luyện khắc nghiệt, kỷ luật thép và ý chí vươn lên để trở thành ngôi sao bóng đá hàng đầu châu Á.
+
+. **Tinh Hoa Trí Tuệ Lão Tử** - Hoàng Thần Thuận - Văn hóa / Triết lý - Tuyển tập những tư tưởng, châm ngôn và bài học ứng xử đặc sắc Lão Tử phản ánh nhân sinh quan tinh tế của người xưa.
+
+. **Con Đường Đến Tương Lai** (*The Road Ahead*) - Bill Gates - Công nghệ / Kinh doanh - Tầm nhìn chiến lược của người sáng lập Microsoft về sự phát triển của kỷ nguyên thông tin và tương lai của máy tính cá nhân.
+
+. **Không Chỉ Là Chiếc Áo Phông** (*This Is Not a T-Shirt*) - Bobby Hundreds - Khởi nghiệp / Thời trang - Hành trình khởi nghiệp truyền cảm hứng, xây dựng thương hiệu thời trang đường phố The Hundreds dựa trên sức mạnh của văn hóa cộng đồng.
+
+. **200+ Bộ Câu Hỏi Và Trả Lời Phỏng Vấn Tiếng Anh** - Aran Kim - Tiếng Anh / Kỹ năng - Sổ tay cung cấp đa dạng các tình huống phỏng vấn xin việc bằng tiếng Anh kèm theo các mẫu câu trả lời chuyên nghiệp, ghi điểm.
+
+. **Vương Quốc Sáng Tạo** (*Creativity, Inc.*) - Ed Catmull, Amy Wallace - Quản trị / Sáng tạo - Cuốn sách mở ra bí mật đằng sau thành công của Pixar, bài học về cách xây dựng và bảo vệ văn hóa sáng tạo trong doanh nghiệp.
+
+. **233 Mẫu Câu Tiếng Anh Chinh Phục Nhà Tuyển Dụng** - Juliana Jiyoon Lee - Tiếng Anh / Kỹ năng - Cung cấp kho tàng cấu trúc câu, từ vựng và ngữ pháp tiếng Anh thực tế giúp ứng viên tự tin thể hiện bản thân khi phỏng vấn.
+
 . **Kỹ thuật vẽ sơn dầu** - Nguyễn Đình Đăng - Nghệ thuật - Tài liệu chuyên khảo về phương pháp vẽ sơn dầu.
